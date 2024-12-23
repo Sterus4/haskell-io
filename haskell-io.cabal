@@ -25,6 +25,7 @@ source-repository head
 
 library
   exposed-modules:
+      Interpolation
       Lib
   other-modules:
       Paths_haskell_io
